@@ -1,0 +1,12 @@
+.carousel-indicators [data-bs-target] {
+    height: 30px;
+    border-radius: 50%;
+}
+
+.carousel-control-next-icon {
+    background-image: url(next-page.svg);
+}
+
+.carousel-control-prev-icon {
+    background-image: url(prev-page.svg)
+}
